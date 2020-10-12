@@ -1,4 +1,4 @@
-<img src="https://assets.codepen.io/2099965/internal/screenshots/pens/oMeLYW.default.png?format=auto&ha=false&height=400&quality=75&v=1&version=1532569657&width=700" title="Markdown Preview" alt="Markdown Preview">
+<img src="https://assets.codepen.io/2099965/internal/screenshots/pens/oMeLYW.default.png" title="Markdown Preview" alt="Markdown Preview">
 
 # Random Qoutes
 
