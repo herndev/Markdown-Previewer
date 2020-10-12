@@ -1,4 +1,4 @@
-<img src="https://reactjsexample.com/content/images/2019/11/Random-Quote-Generator.jpg" title="Random-Quote-Generator" alt="Random-Quote-Generator">
+<img src="https://assets.codepen.io/2099965/internal/screenshots/pens/oMeLYW.default.png?format=auto&ha=false&height=400&quality=75&v=1&version=1532569657&width=700" title="Markdown Preview" alt="Markdown Preview">
 
 # Random Qoutes
 
