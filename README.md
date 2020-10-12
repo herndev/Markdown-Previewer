@@ -1,6 +1,6 @@
 <img src="https://assets.codepen.io/2099965/internal/screenshots/pens/oMeLYW.default.png" title="Markdown Preview" alt="Markdown Preview">
 
-# [Markdown Previewer](https://herndev.github.io/Random-Qoutes/)
+# [Markdown Previewer](https://herndev.github.io/Markdown-Previewer/)
 
 > Basic markdown previewer using (html, css, and js)
 
